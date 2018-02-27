@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-ia"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Interlingua translation files"
 DESCRIPTION="KDE Interlingua translation files"
